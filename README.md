@@ -1,3 +1,3 @@
-# <a href="https://steelaura.github.io/etalon-idea-task/">Посмотреть</a>
+# <a href="https://moonimori.github.io/etalon-idea-task/">Посмотреть</a>
 
 Landing Page
